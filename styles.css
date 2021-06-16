@@ -88,3 +88,7 @@ header > h1{
 .grey-glow{
     background-color: #717171;
 }
+
+@media (max-width: 500px) {
+
+}
